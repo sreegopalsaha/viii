@@ -1,0 +1,21 @@
+{
+  "name": "viii",
+  "version": "1.0.0",
+  "description": "Minimalist command-line HTTP client",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "viii": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
