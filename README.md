@@ -45,6 +45,9 @@ npm install -g viii-cli
 # Set a base URL once
 viii base https://api.example.com
 
+# Request the configured base URL
+viii get /
+
 # Send a GET request to https://api.example.com/users
 viii get /users
 
