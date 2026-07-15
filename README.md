@@ -2,8 +2,8 @@
 
 A tiny, fast, production-ready HTTP CLI.
 
-[![npm version](https://img.shields.io/npm/v/viii-cli.svg)](https://www.npmjs.com/package/viii-cli)
-[![npm downloads](https://img.shields.io/npm/dm/viii-cli.svg)](https://www.npmjs.com/package/viii-cli)
+[![npm version](https://img.shields.io/npm/v/@sreegopalsaha/viii.svg)](https://www.npmjs.com/package/@sreegopalsaha/viii)
+[![npm downloads](https://img.shields.io/npm/dm/@sreegopalsaha/viii.svg)](https://www.npmjs.com/package/@sreegopalsaha/viii)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 VIII is a tiny, fast, production-ready HTTP CLI inspired by curl and HTTPie, but with a much simpler experience. It is designed for developers who want to interact with APIs quickly without the verbosity of traditional tools.
@@ -34,7 +34,7 @@ VIII is a tiny, fast, production-ready HTTP CLI inspired by curl and HTTPie, but
 ### Installation
 
 ```bash
-npm install -g viii-cli
+npm install -g @sreegopalsaha/viii
 ```
 
 ---
